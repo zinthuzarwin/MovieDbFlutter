@@ -16,7 +16,7 @@ class MovieHomePage extends StatefulWidget {
 
 class MovieHomePageState extends State<MovieHomePage> {
   var url =
-      "https://api.themoviedb.org/3/movie/top_rated?api_key=59e90160f05dc382b043b086e34c75c5";
+      "https://api.themoviedb.org/3/movie/top_rated?api_key=cf98f99f6ea41f7f7a2f4739bec880a8";
 
   movieDb MovieDb;
 
